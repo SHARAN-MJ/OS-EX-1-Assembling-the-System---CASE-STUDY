@@ -1,7 +1,5 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM# OS-EX-1-Assembling-the-System---CASE-STUDY
-
 ## AIM:
 To assemble the computer system.
 ## Material Required
@@ -78,11 +76,3 @@ Carefully close and secure the computer case using screws.
 
 ## RESULT:
 The computer system has been installed successfully.
-
-
-STEPS:
-
-PROCEDURE:
-
-
-RESULT:
